@@ -30,3 +30,14 @@ C:\Users\thuongpd\source\repos\FindPeople1\FindPeople1\obj\Debug\netcoreapp2.1\F
 C:\Users\thuongpd\source\repos\FindPeople1\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.dll
 C:\Users\thuongpd\source\repos\FindPeople1\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.pdb
 C:\Users\thuongpd\source\repos\FindPeople1\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.csproj.CopyComplete
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.deps.json
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.runtimeconfig.json
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.runtimeconfig.dev.json
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.dll
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.pdb
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.csproj.CoreCompileInputs.cache
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.AssemblyInfoInputs.cache
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.AssemblyInfo.cs
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.dll
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.pdb
+C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.csprojAssemblyReference.cache
