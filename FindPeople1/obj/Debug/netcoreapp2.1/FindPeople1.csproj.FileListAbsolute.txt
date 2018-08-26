@@ -30,6 +30,7 @@ C:\Users\thuongpd\source\repos\FindPeople1\FindPeople1\obj\Debug\netcoreapp2.1\F
 C:\Users\thuongpd\source\repos\FindPeople1\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.dll
 C:\Users\thuongpd\source\repos\FindPeople1\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.pdb
 C:\Users\thuongpd\source\repos\FindPeople1\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.csproj.CopyComplete
+<<<<<<< HEAD
 C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.deps.json
 C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.runtimeconfig.json
 C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.runtimeconfig.dev.json
@@ -41,3 +42,37 @@ C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\
 C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.dll
 C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.pdb
 C:\ThangND\Source\FindPeoplesApp\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.csprojAssemblyReference.cache
+=======
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.deps.json
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.runtimeconfig.json
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.runtimeconfig.dev.json
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.dll
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.pdb
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.Views.dll
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\bin\Debug\netcoreapp2.1\FindPeople1.Views.pdb
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.csprojAssemblyReference.cache
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.csproj.CoreCompileInputs.cache
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.RazorAssemblyInfo.cache
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.RazorAssemblyInfo.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.AssemblyInfoInputs.cache
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.AssemblyInfo.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.TagHelpers.input.cache
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.TagHelpers.output.cache
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.RazorCoreGenerate.cache
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.RazorTargetAssemblyInfo.cache
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.RazorTargetAssemblyInfo.cs
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.Views.pdb
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.dll
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.pdb
+C:\Users\thuongpd\Desktop\FindPeople\FindPeople\FindPeople1\obj\Debug\netcoreapp2.1\FindPeople1.csproj.CopyComplete
+>>>>>>> ae8bfbbb570db325c0b5c762f34194cf977bb390
